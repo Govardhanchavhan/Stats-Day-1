@@ -1,2 +1,2 @@
-# Stats-Day-1
+# Stats first day.
 Stats day 1
